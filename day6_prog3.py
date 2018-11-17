@@ -1,4 +1,3 @@
-#DoB ="03:30:1989:01:22"
 #User Input for date of birth
 DoB= raw_input("Enter your Date of birth: ")
 
