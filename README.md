@@ -1,5 +1,5 @@
 # LearningPython
-##Topics Covered
+## Topics Covered
 
 Topics Covered
 Dislplay different types
@@ -27,7 +27,7 @@ User input - raw_input()
 9. left shift & right shift  << , >>
 
 
-##Assignments
+## Assignments
 
 1. Take an input(alpha numeric) from the user from command line. (greater than 50 characters and less than 150 )
 a. Split the same into 5 equal parts and display 
